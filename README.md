@@ -1,0 +1,1 @@
+This project presents an interactive Power BI dashboard built from survey data collected from data professionals across various roles and industries. The dashboard provides valuable insights into the data profession, including job roles, salaries, skills, work-life balance, and career satisfaction.
